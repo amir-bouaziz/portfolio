@@ -764,6 +764,17 @@ a:hover {
   color: #4e4e4e;
 }
 
+.edu-info{
+  color: rgba(0, 120, 255, 0.5);
+}
+
+.edu-detail{
+  font-weight: 500;
+}
+
+.edu-title{
+  margin-top: 15px;
+}
 /*======================================
 //--//-->   COUNTER
 ======================================*/
